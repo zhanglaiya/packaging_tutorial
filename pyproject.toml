@@ -2,7 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "example_package_xsw"
+name = "example_package_zhanglaiya"
 version = "0.0.1"
 authors = [
   { name="zhanglaiya", email="315396460@qq.com" },
